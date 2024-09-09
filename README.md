@@ -1,1 +1,1 @@
-# Employee_Attrition_Analysis
+The primary goal of this analysis is to identify and factors that contribute to employee attrition.Understanding these factors can help the organization implement targeted strategies to improve employee retention and overall satisfaction,which are crucial for maintaining a stable and effective workforce.
